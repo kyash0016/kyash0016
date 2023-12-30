@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fkarriere.fresenius.de%2Fen-US%2Fdigital-careers%2Ffocus-on-data-science&psig=AOvVaw3IzPdSxv62itf5TfvZO0PA&ust=1704059261346000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDXuM2RuIMDFQAAAAAdAAAAABAD
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkarriere.fresenius.de%2Fen-US%2Fdigital-careers%2Ffocus-on-data-science&psig=AOvVaw3IzPdSxv62itf5TfvZO0PA&ust=1704059261346000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDXuM2RuIMDFQAAAAAdAAAAABAD)]
 
 <h1 align="center">Hi 👋, I'm KUMAR YASH</h1>
 <h3 align="center">A Machine Learning Engineer and a Data Science enthusiast.</h3>
