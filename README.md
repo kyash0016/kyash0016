@@ -1,4 +1,4 @@
-[![MasterHead](https://api.careers.fresenius.com/images/3cba469c-79f7-41bf-981f-ac84a5de8130/0d9310511909dc0b9de166f91f4d36fa1a0030d5793a71a36ca8ab3e84304bef4cf94308-055a583976496cbde8dea649d26a1013822b42ea5ccafe63)]
+![MasterHead](https://api.careers.fresenius.com/images/3cba469c-79f7-41bf-981f-ac84a5de8130/0d9310511909dc0b9de166f91f4d36fa1a0030d5793a71a36ca8ab3e84304bef4cf94308-055a583976496cbde8dea649d26a1013822b42ea5ccafe63)
 
 <h1 align="center">Hi 👋, I'm KUMAR YASH</h1>
 <h3 align="center">A Machine Learning Engineer and a Data Science enthusiast.</h3>
